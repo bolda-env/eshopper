@@ -1,0 +1,1 @@
+For the Html file(s) to work properly. You have to copy/cut it to the root directory[eshopper].
